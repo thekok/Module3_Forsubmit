@@ -11,10 +11,11 @@ This is explain what the run_analysis.R did
 
 
 ### Pre-requisite
-Must Install packages("data.table") first
-install.packages("data.table")
-Must Install packages("reshape2") first
-install.packages("reshape2")
+1. Must Install packages("data.table") first
+   install.packages("data.table")
+2. Must Install packages("reshape2") first
+   install.packages("reshape2")
+
 
 
 ### Steps
